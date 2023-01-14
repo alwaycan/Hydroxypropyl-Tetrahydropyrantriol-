@@ -6,4 +6,6 @@ Acare Xylane_30 contains 30% hydroxypropyl tetrahydropyranotriol, which is a xyl
 about 20 million, The main user is L'Oréal
 # Specifications
 30% or 99%
-30%-INCI name：Water, Hydroxypropyl Tetrahydropyrantriol, 1,2-Pentanediol, 1,3-Butanediol
+# INCI name
+[30%]：Water, Hydroxypropyl Tetrahydropyrantriol, 1,2-Pentanediol, 1,3-Butanediol
+[99%]: Hydroxypropyl Tetrahydropyrantriol
