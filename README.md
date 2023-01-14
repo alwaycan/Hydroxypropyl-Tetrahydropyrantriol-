@@ -9,3 +9,7 @@ about 20 million, The main user is L'Oréal
 # INCI name
 [30%]：Water, Hydroxypropyl Tetrahydropyrantriol, 1,2-Pentanediol, 1,3-Butanediol
 [99%]: Hydroxypropyl Tetrahydropyrantriol
+# Mechanism
+Acare Xylane_30 can effectively promote the synthesis of glycosaminoglycans (GAGs) in extracellular matrix, and increase the intercellular water content of skin. It also can improve the collagen IV and VII, help the epidermis and dermis to be closely connected, and maintain skin elasticity. so as to achieve the effect of anti-wrinkle and anti-aging.
+# Instruction
+Adding at low temperature after emulsification, the recommended dosage is 1- 50%
